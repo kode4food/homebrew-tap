@@ -1,8 +1,8 @@
 class ToeATNext < Formula
   desc "Modal terminal editor for Go development (unstable channel)"
   homepage "https://github.com/kode4food/toe"
-  url "https://github.com/kode4food/toe/archive/refs/tags/v0.3.0.tar.gz"
-  sha256 "56fee792d252b98b6e2f6a9e9267383fb1cdf955d3d7800ddd5ec2063ea9d38b"
+  url "https://github.com/kode4food/toe/archive/refs/tags/v0.3.1.tar.gz"
+  sha256 "c1bd679466ad56ffd9dd077c604d1d2abe0d70ec5f2b46841e23312e492d0f17"
   license "MIT"
 
   keg_only :versioned_formula
