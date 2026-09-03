@@ -1,8 +1,8 @@
 class Toe < Formula
   desc "Modal terminal editor for Go development"
   homepage "https://github.com/kode4food/toe"
-  url "https://github.com/kode4food/toe/archive/refs/tags/v0.4.0.tar.gz"
-  sha256 "42afa604dddf7fd80851a3b36b93385a874c26d7ed94e99c3a32a33bc3eb0fc6"
+  url "https://github.com/kode4food/toe/archive/refs/tags/v0.4.1.tar.gz"
+  sha256 "b61ec4320b5f5694d006b01248935afc96e8c143f03b8e9f10bfb81dcfdd8b38"
   license "MIT"
 
   depends_on "go" => :build
